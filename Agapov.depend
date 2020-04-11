@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1586614048 source:c:\users\leonid\desktop\agapov\file2.cpp
+	"file.h"
+	<string>
+
+1586614056 c:\users\leonid\desktop\agapov\file.h
+	<iostream>
+	<windows.h>
+	<string>
+
+1586613902 source:c:\users\leonid\desktop\agapov\main.cpp
+	"file.h"
+	<string>
+
